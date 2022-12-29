@@ -175,3 +175,4 @@ Using Windows Terminal enables you to open multiple tabs or window panes to disp
 [Install Windows Terminal](/windows/terminal/get-started).
 
   ![Windows Terminal](media/terminal.png)
+  
